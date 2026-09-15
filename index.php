@@ -9,3 +9,8 @@
  <p>Projeto criado para praticar Git e GitHub.</p>
 </body>
 </html>
+ <h2>Integrantes</h2>
+ <ul>
+ <li>Nome do integrante A</li>
+ <li>Nome do integrante B</li>
+ </ul>
